@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mlinarić"
+  given-names: "Petar"
+  orcid: "https://orcid.org/0000-0002-9437-7698"
+title: "Numerical Examples for Parametric {$\\mathcal{H}_2 \\otimes \\mathcal{L}_2$}-optimality Conditions"
+version: v1
+date-released: 2024-11-8
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Mlinarić"
+    given-names: "Petar"
+    orcid: "https://orcid.org/0000-0002-9437-7698"
+  - family-names: "Benner"
+    given-names: "Peter"
+    orcid: "https://orcid.org/0000-0003-3362-4103"
+  - family-names: "Gugercin"
+    given-names: "Serkan"
+    orcid: "https://orcid.org/0000-0003-4564-5999"
+  doi: "10.48550/arXiv.2401.10047"
+  note: "arXiv preprint 2401.10047"
+  title: "Interpolatory Necessary Optimality Conditions for Reduced-order Modeling of Parametric Linear Time-invariant Systems"
+  year: 2024
